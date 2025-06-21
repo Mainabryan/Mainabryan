@@ -1,4 +1,4 @@
-![1efebdb3fc3ec45938a06112d1b13feb_w200.gif](https://github.com/your-username/your-repo/blob/main/banner.jpg)
+![https://github.com/Mainabryan/Mainabryan/blob/bce90c1676d8c60d3156c918b2284cbf0394cb8c/1efebdb3fc3ec45938a06112d1b13feb_w200.gif](https://github.com/your-username/your-repo/blob/main/banner.jpg)
 
 <h1 align="center">Hi there, I'm Bryan Waweru 👋</h1>
 
@@ -53,7 +53,7 @@ I’m highly enthusiastic about the intersection of **technology + agriculture +
 
 ## 🤝 Connect With Me
 
-* 📫 Email: [yourname@email.com](mailto:yourname@email.com)
+* 📫 Email: [yourname@email.com](mainabryan33@gmail.com)
 * 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
 * 🌍 Portfolio: [Your Portfolio Website](https://yourwebsite.com)
 
