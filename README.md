@@ -1,4 +1,4 @@
-![Your Banner Image Here](https://github.com/your-username/your-repo/blob/main/banner.jpg)
+![1efebdb3fc3ec45938a06112d1b13feb_w200.gif](https://github.com/your-username/your-repo/blob/main/banner.jpg)
 
 <h1 align="center">Hi there, I'm Bryan Waweru 👋</h1>
 
