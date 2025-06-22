@@ -1,4 +1,4 @@
-![https://github.com/Mainabryan/Mainabryan/blob/bce90c1676d8c60d3156c918b2284cbf0394cb8c/1efebdb3fc3ec45938a06112d1b13feb_w200.gif](https://github.com/your-username/your-repo/blob/main/banner.jpg)
+![https://github.com/Mainabryan/Mainabryan/blob/bce90c1676d8c60d3156c918b2284cbf0394cb8c/1efebdb3fc3ec45938a06112d1b13feb_w200.gif](1efebdb3fc3ec45938a06112d1b13feb_w200.gif)
 
 <h1 align="center">Hi there, I'm Bryan Waweru 👋</h1>
 
