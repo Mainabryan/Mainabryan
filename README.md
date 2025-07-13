@@ -1,4 +1,4 @@
-![https://github.com/Mainabryan/Mainabryan/blob/bce90c1676d8c60d3156c918b2284cbf0394cb8c/1efebdb3fc3ec45938a06112d1b13feb_w200.gif](1efebdb3fc3ec45938a06112d1b13feb_w200.gif)
+![Bid data](https://github.com/Mainabryan/Mainabryan/blob/bae315b4c925d91fecc9075a3d8284ec26920b26/Big%20Data.gif)
 
 ## 🧠 About Me
 
