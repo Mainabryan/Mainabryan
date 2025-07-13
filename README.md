@@ -35,7 +35,12 @@
 
 ---
 <p align="center">
-  <em>Insert your GitHub stats, trophies, or contribution graph here if you like</em>
+## 🚀 Tech Stack & Focus
+
+- ⚛️ React Developer | 🔄 Reusable Components | 💻 UI Engineer  
+- 🐍 Python Enthusiast | 📊 Data Analysis | 🔢 Logic Builder  
+- 🤖 Machine Learning Explorer | 🧠 Predictive Modeling | 📈 Data-Driven Solutions
+
 </p>
 
 <!-- Optional: GitHub Stats Example -->
